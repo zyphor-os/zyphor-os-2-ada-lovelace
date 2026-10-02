@@ -1,6 +1,6 @@
 Zyphor OS 2 Ada Lovelace Official Release Repository
 
-Source Forge: https://sourceforge.net/projects/zyphor-os-3-bethany-lts
+Source Forge: https://sourceforge.net/projects/zyphor-os-2-ada-lovelace/
 
 Mirror Downloads:
 
